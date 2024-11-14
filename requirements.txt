@@ -1,0 +1,10 @@
+streamlit
+numpy
+opencv-python
+scikit-image
+langchain_community
+langchain_huggingface
+langchain_google_genai
+transformers
+pypdf
+chromadb
