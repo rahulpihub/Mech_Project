@@ -18,7 +18,7 @@ import tempfile
 import uuid  
 
 # Set the API key for Google Generative AI
-IMAGE_API_KEY = 'AIzaSyDdRNV7YuLzJ8n-nYkIzmGMZPR8l8wVlks'
+IMAGE_API_KEY = 'GEMINI-API-KEY'
 
 # Function to load an image from a file
 def load_image(image_file):
